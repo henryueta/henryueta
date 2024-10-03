@@ -1,7 +1,7 @@
 <h5 align="left">Olá! Meu nome é Henry!😉</h5>
 
 ###
-<img src="https://static01.nyt.com/images/2022/04/04/multimedia/15ai-nocode/15ai-nocode-videoSixteenByNineJumbo1600.jpg"></img>
+
 
 
 <div align="center">
